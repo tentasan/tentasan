@@ -1,6 +1,7 @@
 <!-- Optional banner -->
 <p align="center">
-  <img src="https://yourdomain.com/banner.png" alt="Banner" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tentasan/tentasan/main/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Sanjai G</h1>
