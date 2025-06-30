@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tentasan/tentasan/main/Banner.png" alt="Sanjai G Banner" width="600px" />
+  <img src="https://raw.githubusercontent.com/tentasan/tentasan/main/NewBanner.png" alt="Sanjai G Banner" width="600px" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm <span style="color:#6DB33F">Sanjai G</span></h1>
